@@ -36,7 +36,7 @@
     },
     "ctrlDeployPurview": {
       "type": "bool",
-      "defaultValue": true
+      "defaultValue": false
     },
     "ctrlDeployAI": {
       "type": "bool",
